@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://blackadc.github.io"
 baseurl: ""
 google-tracking-id: "UA-35880426-3"
 force-https: True
@@ -30,12 +30,12 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "Panos Sakkos"
+author: "Hardik Mundhva"
 lang: "en"
-title: "{ Panos Sakkos }"
+title: "Hardik Mundhva"
 favicon: "/img/favicon.ico"
-description: "Blog of Panos Sakkos, blogging mainly about tech. Opinions expressed are mine."
-keywords: "panos, sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
+description: "Hardik Mundhva's website."
+keywords: ""
 
 ################
 # Intro layout #
@@ -84,31 +84,31 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 ###############
 # Life Events #
 ###############
 
 events:
-  - image: "/img/career/microsoft.png"
-    date: "September 2014 - Today"
-    description: "Software Engineer @ Microsoft Development Center Norway, working @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
-  - image: "/img/career/microsoft.png"
-    date: "June 2013 - September 2013"
-    description: "Software Engineering Intern @ Microsoft Development Center Norway, worked @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
-  - image: "/img/career/uoa.jpg"
-    date: "October 2012 - August 2014"
-    description: "Master studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Software Engineering + <a href=\"https://scholar.google.com/citations?user=UtV6LFYAAAAJ&amp;hl=en&amp;oi=ao\" target=\"_blank\">Machine Learning researcher</a> @ <a href=\"http://kddlab.di.uoa.gr\" target=\"_blank\">KDD</a> lab"
-  - image: "/img/career/cern.jpg"
-    date: "October 2011 - September 2012"
-    description: "Security researcher @ <a href=\"https://www.cern.ch\" target=\"_blank\">CERN</a>, developed linux kernel extensions to prevent cyber attacks"
-  - image: "/img/career/pwnmail.jpg"
-    date: "June 2010 - November 2010"
-    description: "Created <a href=\"https://www.google.com/search?q=pwn+mail\" target=\"_blank\">Pwn Mail</a>, a Cydia iPhone app for spoofing emails. It served &gt; 260,000 emails but it was discontinued after a legal threat by Steve Jobs"
-  - image: "/img/career/uoa.jpg"
-    date: "October 2007 - September 2011"
-    description: "Bachelor studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science and Telecomunications"
+  # - image: "/img/career/microsoft.png"
+  #   date: "September 2014 - Today"
+  #   description: "Software Engineer @ Microsoft Development Center Norway, working @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
+  # - image: "/img/career/microsoft.png"
+  #   date: "June 2013 - September 2013"
+  #   description: "Software Engineering Intern @ Microsoft Development Center Norway, worked @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
+  # - image: "/img/career/uoa.jpg"
+  #   date: "October 2012 - August 2014"
+  #   description: "Master studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Software Engineering + <a href=\"https://scholar.google.com/citations?user=UtV6LFYAAAAJ&amp;hl=en&amp;oi=ao\" target=\"_blank\">Machine Learning researcher</a> @ <a href=\"http://kddlab.di.uoa.gr\" target=\"_blank\">KDD</a> lab"
+  # - image: "/img/career/cern.jpg"
+  #   date: "October 2011 - September 2012"
+  #   description: "Security researcher @ <a href=\"https://www.cern.ch\" target=\"_blank\">CERN</a>, developed linux kernel extensions to prevent cyber attacks"
+  # - image: "/img/career/pwnmail.jpg"
+  #   date: "June 2010 - November 2010"
+  #   description: "Created <a href=\"https://www.google.com/search?q=pwn+mail\" target=\"_blank\">Pwn Mail</a>, a Cydia iPhone app for spoofing emails. It served &gt; 260,000 emails but it was discontinued after a legal threat by Steve Jobs"
+  # - image: "/img/career/uoa.jpg"
+  #   date: "October 2007 - September 2011"
+  #   description: "Bachelor studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science and Telecomunications"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
@@ -117,7 +117,7 @@ timeline-img: "/img/career/default.jpg"
 # Contact layout #
 ##################
 
-email: "panos.sakkos@gmail.com"
+email: "mundhvahardik@yahoo.com"
 
 ##################
 # Social Buttons #
@@ -125,13 +125,13 @@ email: "panos.sakkos@gmail.com"
 
 social:
   - title: "github"
-    url: "https://github.com/PanosSakkos"
+    url: "https://github.com/blackadc"
   - title: "linkedin"
-    url: "https://no.linkedin.com/in/PanosSakkos"
+    url: ""
   - title: "twitter"
-    url: "https://twitter.com/thepanoss"
+    url: ""
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: ""
   - title: "rss"
     url: "/feed.xml"
 
