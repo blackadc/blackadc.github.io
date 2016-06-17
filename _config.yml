@@ -106,10 +106,9 @@ events:
   # - image: "/img/career/pwnmail.jpg"
   #   date: "June 2010 - November 2010"
   #   description: "Created <a href=\"https://www.google.com/search?q=pwn+mail\" target=\"_blank\">Pwn Mail</a>, a Cydia iPhone app for spoofing emails. It served &gt; 260,000 emails but it was discontinued after a legal threat by Steve Jobs"
-  # - image: "/img/career/uoa.jpg"
-  #   date: "October 2007 - September 2011"
-  #   description: "Bachelor studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science and Telecomunications"
-
+  - image: ""
+    date: "July 2008 - September 2011"
+    description: "Diploma in Mechanical Engineering at Sir Bhavsinhji Polytechnical Institute - Bhavnagar"
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
 
@@ -126,11 +125,11 @@ email: "mundhvahardik@yahoo.com"
 social:
   - title: "github"
     url: "https://github.com/blackadc"
-  - title: "linkedin"
-    url: ""
+  # - title: "linkedin"
+  #   url: ""
   - title: "twitter"
     url: ""
-  - title: "bitcoin"
+  - title: "facebook"
     url: ""
   - title: "rss"
     url: "/feed.xml"
