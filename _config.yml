@@ -153,6 +153,10 @@ social:
     url: "https://plus.google.com/103784343672347147466/posts"
   - title: "github"
     url: "https://github.com/blackadc"
+  - title: "twitter"
+    url: "https://twitter.com/MundhvaHardik"
+  - title: "linkedin"
+    url: "https://in.linkedin.com/in/hardik-mundhva-8b8917124"
   - title: "rss"
     url: "/feed.xml"
 
